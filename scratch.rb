@@ -4,5 +4,5 @@ def greeter ()
     puts "hello"
 end
 
-"rubotor".split()
-arr []
+"rubotor"
+[1,2,3]
